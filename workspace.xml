@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d20d499-315e-43a7-92d2-9b3aa5ba5651" name="Changes" comment="deleted files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Chiranjeevisalla&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/venkateswarlubonam/Data-Eng_Projects.git&quot;,
+    &quot;accountId&quot;: &quot;193bf1f3-15bc-4815-a5e1-05849024babc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="34eMLjUCKMYTPG1m3Q8ZHZhnXcF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Chiru Python FIle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing_file.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d2614ccfe7c8-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.28774.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d20d499-315e-43a7-92d2-9b3aa5ba5651" name="Changes" comment="" />
+      <created>1761569529835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761569529835</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new files added">
+      <option name="closed" value="true" />
+      <created>1761569854545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761569854545</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added new message">
+      <option name="closed" value="true" />
+      <created>1761569979615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761569979615</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete">
+      <option name="closed" value="true" />
+      <created>1761570121837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761570121837</updated>
+    </task>
+    <task id="LOCAL-00004" summary="delete 1">
+      <option name="closed" value="true" />
+      <created>1761570172990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761570172990</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add commit 121">
+      <option name="closed" value="true" />
+      <created>1761570471542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761570471542</updated>
+    </task>
+    <task id="LOCAL-00006" summary="remove files">
+      <option name="closed" value="true" />
+      <created>1761571081668</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761571081668</updated>
+    </task>
+    <task id="LOCAL-00007" summary="testing message">
+      <option name="closed" value="true" />
+      <created>1761571509616</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761571509616</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Chiru Commit file">
+      <option name="closed" value="true" />
+      <created>1761571703215</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761571703215</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deleted files">
+      <option name="closed" value="true" />
+      <created>1761572380085</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761572380085</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new files added" />
+    <MESSAGE value="added new message" />
+    <MESSAGE value="delete" />
+    <MESSAGE value="delete 1" />
+    <MESSAGE value="add commit 121" />
+    <MESSAGE value="remove files" />
+    <MESSAGE value="testing message" />
+    <MESSAGE value="Chiru Commit file" />
+    <MESSAGE value="deleted files" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted files" />
+  </component>
+</project>
